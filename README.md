@@ -1,4 +1,4 @@
-# 🌐 Task 1 – Web Scraping: Extracting Quotes Using Python
+# 🌐 Web Scraping: Extracting Quotes Using Python
 
 **Internship**: Data Analytics Internship at CodeAlpha  
 **Name**: Miju Akshaya P  
